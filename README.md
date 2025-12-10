@@ -1,4 +1,4 @@
-*Fatime Suleymanova
+* Fatime Suleymanova
 <h1 align="center">Hi 👋, I'm Fatime</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
